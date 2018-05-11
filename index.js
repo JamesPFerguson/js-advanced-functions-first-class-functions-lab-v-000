@@ -22,3 +22,7 @@ function fareDoubler() {
 function fareTripler() {
 
 }
+
+function selectDifferentDrivers() {
+  
+}
