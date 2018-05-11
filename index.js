@@ -4,13 +4,21 @@ function returnFirstTwoDrivers() {
 }
 
 function returnLastTwoDrivers() {
-  
+
 }
 
 function selectingDrivers() {
-  
+
 }
 
 function createFareMultiplier() {
-  
+
+}
+
+function fareDoubler() {
+
+}
+
+function fareTripler() {
+
 }
